@@ -1,3 +1,3 @@
 # InteligenciaArtificial
 
-- Utilización de Herramienta: OpenAI Gym, Anaconda y Spider 
+-Herramientas: OpenAI Gym, Anaconda y Spider 
